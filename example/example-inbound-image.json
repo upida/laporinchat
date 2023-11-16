@@ -1,0 +1,44 @@
+{
+    "message": {
+        "caption": "halo",
+        "chat": {
+            "first_name": "Salma",
+            "id": 634552160,
+            "type": "private",
+            "username": "salupida"
+        },
+        "date": 1700038246,
+        "from": {
+            "first_name": "Salma",
+            "id": 634552160,
+            "is_bot": false,
+            "language_code": "en",
+            "username": "salupida"
+        },
+        "message_id": 3,
+        "photo": [
+            {
+                "file_id": "AgACAgUAAxkBAAMDZVSGZrrnYfKPx2JoW1NHBWPUmsQAAi28MRska6FWEJbT6arYl_8BAAMCAANzAAMzBA",
+                "file_size": 893,
+                "file_unique_id": "AQADLbwxGyRroVZ4",
+                "height": 43,
+                "width": 90
+            },
+            {
+                "file_id": "AgACAgUAAxkBAAMDZVSGZrrnYfKPx2JoW1NHBWPUmsQAAi28MRska6FWEJbT6arYl_8BAAMCAANtAAMzBA",
+                "file_size": 13357,
+                "file_unique_id": "AQADLbwxGyRroVZy",
+                "height": 152,
+                "width": 320
+            },
+            {
+                "file_id": "AgACAgUAAxkBAAMDZVSGZrrnYfKPx2JoW1NHBWPUmsQAAi28MRska6FWEJbT6arYl_8BAAMCAAN4AAMzBA",
+                "file_size": 68278,
+                "file_unique_id": "AQADLbwxGyRroVZ9",
+                "height": 376,
+                "width": 791
+            }
+        ]
+    },
+    "update_id": 884190655
+}
